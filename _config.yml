@@ -1,0 +1,14 @@
+name: Dress the Mannequins
+layout_spectrum: 0.22585630560819947
+typography_spectrum: 0.683070852378269
+color:
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  brandStrength: 0.29885077966311746
+  lightness: 0.5114284313096183
+  saturation: 0.750016658575456
+  rhythmicContrast: 0.6696599346302984
